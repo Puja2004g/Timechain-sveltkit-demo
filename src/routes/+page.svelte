@@ -1,2 +1,2 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<h1 class=" text-center">Welcome to SvelteKit</h1>
+<p class=" text-red-500 underline m-10">Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>

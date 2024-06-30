@@ -1,0 +1,1 @@
+<h1 class=" uppercase font-mono underline">Here is footer</h1>
